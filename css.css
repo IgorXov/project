@@ -1,0 +1,42 @@
+.b {
+    background-color: rgb(153, 33, 33);
+    height: 720px;
+    width: 600px;
+}
+
+#gradient {
+    height: 795px;
+    background: linear-gradient(45deg,#961a1a,  #8f1c1c, #961a1a); /*  #8B0000,  #B22222, #8B0000*/
+}
+
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);    
+    font-weight: bold;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+.mst p{
+   text-align: center;
+}
+
+.mst{
+   display: flex;
+}
+
+.m {
+   margin-right: 22px;
+   max-width: 200px;
+   background-color: #800000;
+   margin-left: 5px;
+   margin-top: 10px;
+
+}
+
+body{ 
+    background: linear-gradient(45deg,#961a1a,  #8f1c1c, #961a1a);
+}
